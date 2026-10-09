@@ -1,18 +1,68 @@
-## Getting Started
+# Java Learning Journey
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains my journey of learning and improving my Java programming skills.
 
-## Folder Structure
+## 🎯 Goals
 
-The workspace contains two folders by default, where:
+- Build a strong foundation in Java
+- Practice core programming concepts
+- Learn Object-Oriented Programming
+- Solve programming exercises and problems
+- Build Java-based projects
+- Progress toward Java backend development
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📚 Topics
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java Basics
+- Variables and Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Methods
+- Arrays
+- Strings
+- Object-Oriented Programming
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+- Interfaces
+- Exception Handling
+- Collections
+- Generics
+- File Handling
+- Multithreading
+- JDBC
+- Java Backend Development
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📁 Repository Structure
 
-## Dependency Management
+```text
+Java/
+├── README.md
+├── basics/
+├── oop/
+├── collections/
+├── exceptions/
+├── projects/
+└── ...
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The structure will evolve as I learn new concepts.
+
+## 🛠️ Tools
+
+- Java JDK
+- IntelliJ IDEA Community Edition
+- Visual Studio Code
+- Git
+- GitHub
+
+## 📈 Progress
+
+This repository is continuously updated as I learn, practice, and build projects in Java.
+
+---
+
+**Learning by building, practicing, and improving.**
